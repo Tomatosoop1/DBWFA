@@ -1,0 +1,14 @@
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\bin\Debug\DbTOWFA.exe.config
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\bin\Debug\DbTOWFA.exe
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\bin\Debug\DbTOWFA.pdb
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\obj\Debug\DbTOWFA.csproj.AssemblyReference.cache
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\obj\Debug\DbTOWFA.Form1.resources
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\obj\Debug\DbTOWFA.Form2.resources
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\obj\Debug\DbTOWFA.Properties.Resources.resources
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\obj\Debug\DbTOWFA.csproj.GenerateResource.cache
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\obj\Debug\DbTOWFA.csproj.CoreCompileInputs.cache
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\obj\Debug\DbTOWFA.exe
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\obj\Debug\DbTOWFA.pdb
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\obj\Debug\DbTOWFA.Form3.resources
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\obj\Debug\DbTOWFA.Form4.resources
+C:\Users\luis.wettre\Desktop\ConnectDBtoWFA\DbTOWFA\DbTOWFA\bin\Debug\Database2.accdb
